@@ -1,0 +1,14 @@
+curl -X GET http://localhost:8000/
+
+curl -X GET http://localhost:8000/papercount
+
+curl -X GET http://localhost:8000/author/P.%20Bianchi
+
+curl -X GET http://localhost:8000/papersfrom/P.%20Bianchi
+
+curl -X GET http://localhost:8000/titles/P.%20Bianchi
+
+curl -X GET http://localhost:8000/reference/mbsr:camsap17
+
+curl -X DELETE http://localhost:8000/reference/imaginary
+

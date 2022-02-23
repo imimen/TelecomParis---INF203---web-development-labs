@@ -1,0 +1,27 @@
+curl --header "Content-Type: application/json" \
+  --request POST \
+  --data '{"key":"imaginary",
+    "title": "Accélération de la méthode de microscopie à illumination structurée à l\\textquoterightaide de l\\textquoterightacquisition comprimée",
+    "booktitle": "GRETSI",
+    "address": "Juan les Pins, France",
+    "year": "2017",
+    "month": "sep",
+    "keywords": "Acquisition compressée, Super-résolution, Microscopie à Fluorescence",
+    "lang": "fr",
+    "authors": [
+      "W. Meiniel",
+      "P. Spinicelli",
+      "E. D. Angelini",
+      "A. Fragola",
+      "V. Loriette",
+      "F. Orieux",
+      "E. Sepulveda",
+      "J.-C. Olivo-Marin"
+    ],
+    "category": "inproceedings",
+    "state": "published",
+    "project": "tii",
+    "dept": "ids",
+    "group": "images"
+  }' \
+  http://localhost:8000/reference/

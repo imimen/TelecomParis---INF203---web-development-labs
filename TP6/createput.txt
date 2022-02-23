@@ -1,0 +1,9 @@
+curl --header "Content-Type: application/json" \
+  --request PUT \
+  --data '{
+    "title": "new title",
+    "booktitle": "new book title",
+    "address": "Gif Sur Yvette",
+    "year": "2020",
+  }' \
+  http://localhost:8000/reference/WM:GRETSI-17

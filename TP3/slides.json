@@ -1,0 +1,28 @@
+{
+    "slides": [
+        {
+            "time": 0,
+            "url": "https://perso.telecom-paristech.fr/dufourd/cours/inf203/"
+        },
+        {
+            "time": 2,
+            "url": "https://www.telecom-paristech.fr/"
+        },
+        {
+            "time": 4,
+            "url": "https://perso.telecom-paristech.fr/dufourd/cours/inf203/js.html#/equality"
+        },
+        {
+            "time": 6,
+            "url": "https://perso.telecom-paristech.fr/dufourd/cours/inf203/svg.html#/svg-curves"
+        },
+        {
+            "time": 8,
+            "url": "https://perso.telecom-paristech.fr/bellot/CoursJava/JavaClassesObjets.html#slide21"
+        },
+        {
+            "time": 10,
+            "url": ""
+        }
+    ]
+}

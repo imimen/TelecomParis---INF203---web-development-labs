@@ -1,0 +1,11 @@
+#div1 { border: 1px;padding: 10px;}
+img { float:left;margin-right:10px;}
+div.divType1 {
+    position: fixed;
+    background-color:#CCCCCC;
+    margin:10px;
+    width: 400px;
+    height: 400px;
+    top: 100px;
+    left: 100px;
+}
